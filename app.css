@@ -1,0 +1,51 @@
+h1{
+    font-family: 'Allan';font-size: 40px;
+    color: #686057;
+    text-align: center;
+    
+}
+ul {
+    padding: 10px;
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+body {
+    background-color:#d3bda5;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+header {
+    Text-align: center;
+    background: url(https://hdwallsource.com/img/2014/4/brown-background-18636-19107-hd-wallpapers.jpg);
+    background-size: cover;
+}
+ul {
+    padding: 10px;
+    background: #918578;
+  }
+p{
+    font-size: 18px;
+    padding: 20px 0px 0px 20px;
+}
+h2{
+    text-align: center;
+    font-family: 'Allan'; 
+    font-size: 30px;
+}
+img {
+    border-radius:20%;
+    border: 5px solid #686057;
+ }
+ div {
+     text-align: center;
+ }
+ article{
+    max-width: 500px;
+    padding: 20px;
+   margin: 0 auto;
+ }
+ 
